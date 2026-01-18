@@ -1,0 +1,7 @@
+[
+  {
+    "id": "inst_01",
+    "prompt": "Explain quantum computing in one sentence.",
+    "expected_answer": "quantum"
+  }
+]

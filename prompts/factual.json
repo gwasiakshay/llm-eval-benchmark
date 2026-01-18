@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fact_01",
+    "prompt": "Who is the CEO of Tesla?",
+    "expected_answer": "Elon Musk"
+  },
+  {
+    "id": "fact_02",
+    "prompt": "What is the capital of Germany?",
+    "expected_answer": "Berlin"
+  }
+]
